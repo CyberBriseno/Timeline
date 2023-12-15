@@ -29,6 +29,7 @@ Following Basic Combat Training, I transitioned to Advanced Individual Training 
 3. **Communication Protocols**: Delved into various communication protocols to understand how different technologies and devices communicate.
 4. **Cybersecurity Fundamentals**: Introduced to the basics of cybersecurity, including common vulnerabilities and attack vectors.
 5. **Hands-On Experience**: Engaged in practical exercises that simulate real-world IT scenarios, offering a holistic understanding of how theory translates to practice.
+6. **User Account Management**: Acquired experience in AD user account management and configuring mailboxes tied to AD emails
 
 ### Ongoing Focus
 As the training is still in progress, my current focus is on:
